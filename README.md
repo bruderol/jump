@@ -15,11 +15,11 @@ How to setup your dev environment to work with the course examples and exercises
         * https://git-scm.com/doc
         * online version of the book https://git-scm.com/book
     * **Initial Configuration (important!!):**
-        * personalize your GIT by setting your username and email for commits:
-            ```
-             > git config --global user.name "<your-username>"             
-             > git config --global user.email <yourname>@<your-email-domain>.com
-            ```
+         * personalize your GIT by setting your username and email for commits:
+         ```
+          > git config --global user.name "<your-username>"             
+          > git config --global user.email <yourname>@<your-email-domain>.com
+          ```
          see also here: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
        
 3. IntelliJ
