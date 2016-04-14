@@ -8,9 +8,12 @@ public class JumpExampleApp {
     final static Logger LOGGER = Logger.getLogger(JumpExampleApp.class);
 
     public static void main(String [] args) {
-        if (StringUtils.isBlank("   ")) {
-            LOGGER.info("Jump!");
-        }
+        JumpExampleApp jumpApp = new JumpExampleApp();
+        LOGGER.info(jumpApp.getJump());
+    }
+
+    public String getJump() {
+        return "Jump";
     }
 
 }
