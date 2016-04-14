@@ -19,5 +19,5 @@ How to setup your dev environment to work with the course examples and exercises
 
 ## Open points
 
-* will they need to install a JDK or is the bundled JDK in IntelliJ sufficient?
+* Will they need to install a JDK or is the bundled JDK in IntelliJ sufficient?
 * Will they need to install Gradle or Maven?
