@@ -1,6 +1,6 @@
 # Jump
 
-A Simple Example Project for courses for teaching project automation and test automation and other things.
+A very very basic and simple example Java project for teaching courses and as a quick start for examples.
 
 ## Dev Environment
 
